@@ -3,6 +3,8 @@ Code First Girls | Introduction to SQL &amp; Data final project
 
 The project contains a dog school database with 5 tables - owners, dogs, course_attendees, courses, age_groups
 
+![EER Diagram](https://github.com/zklaw/CFG_project/blob/main/project_diagram.png)
+
 ---
 ## Sample rows from the database
 
